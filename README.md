@@ -41,7 +41,7 @@ Top 5 Products by Sales:
 5. Tanqueray
 
 Regional Distribution:
-- All sales regions are located **within Germany**, with data covering **16 distinct cities**.
+- All sales regions are located **within Germany**, with data covering **16 distinct regions**.
 - Sales concentration varies by region, highlighting differences in regional demand across major German cities.
 
 Sales Over Time:
