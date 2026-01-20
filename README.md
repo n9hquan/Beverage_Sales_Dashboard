@@ -1,4 +1,4 @@
-# Beverage Sales Dashboard
+# Beverage Sales Performance Dashboard
 
 ## Preview
 
