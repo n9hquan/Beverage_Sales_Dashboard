@@ -2,7 +2,7 @@
 
 ## Preview
 
-![Netflix Power BI Dashboard Preview](report/Beverage_Sales_Dashboard.jpg)
+![Netflix Power BI Dashboard Preview](report/Beverage_Sales_Performance_Dashboard.jpg)
 
 ## Overview
 
@@ -89,9 +89,9 @@ To explore the dashboard:
 ├─ dataset/
 │  └─ synthetic_beverage_sales_data.rar
 ├─ report/
-│  └─ Beverage_Sales_Dashboard.jpg
-│  └─ Beverage_Sales_Dashboard.pdf
-├─ Beverage_Sales_Dashboard.pbix
+│  └─ Beverage_Sales_Performance_Dashboard.jpg
+│  └─ Beverage_Sales_Performance_Dashboard.pdf
+├─ Beverage_Sales_Performance.pbix
 └─ README.md
 ```
 
