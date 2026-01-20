@@ -2,15 +2,15 @@
 
 ## Preview
 
-![Netflix Power BI Dashboard Preview](report/Beverage_Sales_Dashboard.pdf)
+![Netflix Power BI Dashboard Preview](report/Beverage_Sales_Dashboard.jpg)
 
 ## Overview
 
-The Beverage Sales Dashboard presents an overview of beverage sales performance across products, categories, regions, and time.
+The **Beverage Sales Dashboard** presents an overview of beverage sales performance across **products, categories, regions, and time**.
 
-Built with Power BI, the dashboard highlights key business metrics such as total revenue, customer base, order volume, and product distribution, enabling quick insight into sales drivers and trends.
+Built with **Power BI**, the dashboard highlights key business metrics such as total revenue, customer base, order volume, and product distribution, enabling quick insight into sales drivers and trends.
 
-This dashboard answers questions like:
+This dashboard answers questions:
 - How much revenue has been generated?
 - Which beverage categories contribute the most to sales?
 - Which products and regions perform best?
@@ -89,6 +89,7 @@ To explore the dashboard:
 ├─ dataset/
 │  └─ synthetic_beverage_sales_data.rar
 ├─ report/
+│  └─ Beverage_Sales_Dashboard.jpg
 │  └─ Beverage_Sales_Dashboard.pdf
 ├─ Beverage_Sales_Dashboard.pbix
 └─ README.md
